@@ -1,0 +1,10 @@
+export const CHANGE_FOLDERS_VISIBLE = Symbol.for('CHANGE_FOLDERS_VISIBLE')
+export const CHANGE_FILE_VISIBLE = Symbol.for('CHANGE_FILE_VISIBLE')
+
+export const CHANGE_FOLDERS_LAYOUT = Symbol.for('CHANGE_FOLDERS_LAYOUT')
+export const CHANGE_FILE_LAYOUT = Symbol.for('CHANGE_FILE_LAYOUT')
+
+export const CHANGE_FOLDERS_BOX = Symbol.for('CHANGE_FOLDERS_BOX')
+export const CHANGE_FILES_BOX = Symbol.for('CHANGE_FILES_BOX')
+
+export const CHANGE_BROWSEFOLDER = Symbol.for('CHANGE_BROWSEFOLDER')
